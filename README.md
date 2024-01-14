@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sohaib Alqasem from the Earth</h1>
 <h3 align="center">Software Engineer (Web Development)</h3>
 
-<p align="left"> <a href="https://twitter.com/sohaibalqasem" target="blank"><img src="https://img.shields.io/twitter/follow/sohaibalqasem?logo=twitter&style=for-the-badge" alt="sohaibalqasem" /></a> </p>
-
 - 📝 I regularly write articles on [https://sohaibalqasem.hashnode.dev/](https://sohaibalqasem.hashnode.dev/)
 
 - 💬 Ask me about **Web development and C++**
@@ -13,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sohaibalqasem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohaibalqasem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sohaibalqasem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohaibalqasem" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18272777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18272777" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sohaibqasem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sohaibqasem" height="30" width="40" /></a>
